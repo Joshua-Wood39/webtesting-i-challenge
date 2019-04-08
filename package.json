@@ -1,0 +1,25 @@
+{
+  "name": "webtesting-i-guided",
+  "version": "1.0.0",
+  "description": "Web Testing I Guided Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LambdaSchool/webtesting-i-guided.git"
+  },
+  "keywords": [
+    "lambda",
+    "testing"
+  ],
+  "author": "Lambda School",
+  "bugs": {
+    "url": "https://github.com/LambdaSchool/webtesting-i-guided/issues"
+  },
+  "homepage": "https://github.com/LambdaSchool/webtesting-i-guided#readme",
+  "devDependencies": {
+    "jest": "^24.7.1"
+  }
+}
